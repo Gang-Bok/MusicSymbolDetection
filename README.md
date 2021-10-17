@@ -15,6 +15,11 @@ Using in this Application : https://github.com/Senitf/MusicNote_SwiftUI_YOLOv5
 ## References
 Dataset : https://github.com/OMR-Research/muscima-pp
 
+<<<<<<< HEAD
 Faster-RCNN :  https://hyungjobyun.github.io/machinelearning/FasterRCNN2/
 
 Yolo: https://github.com/ultralytics/yolov5
+=======
+
+Using Model : Faster-RCNN
+>>>>>>> c3879ba11d1b0fc81f81ec0db785c304a1838fbf
