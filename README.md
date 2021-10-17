@@ -4,6 +4,9 @@
 
 Using in this Application : https://github.com/Senitf/MusicNote_SwiftUI_YOLOv5
 
+## HOW TO USE
+1. Dataset.zip 파일과 yolov5폴더에 있는 파일들을 clone을 통해 받는다.
+2. https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data 사이트를 통해 Custom Data를 train 시키고 모델을 사용한다.
 
 ## Issue
 
